@@ -15,7 +15,7 @@ ___
     - dacă e prima dată când pornești routerul conectează-te prin cablu la el, intră in browser și cauta http://192.168.0.1, și fă pașii de acolo
     - apoi continuă cu 3.
 3. Dacă apare "Unidentified Network" urmeaza pasii de aici https://internet-campus.upb.ro/dot1x-windows10.html
-4. Rulezi `router_config.exe` (sau ii dai build from source)
+4. Rulezi `router_config.exe` (sau ii dai build from source) (https://github.com/liLaur/wifi-Regie/releases/download/beta/router_config.exe)
 5. Urmează pașii de acolo.
 
 ## Următorii pași:
@@ -26,7 +26,7 @@ ___
 ___
 # Building/Obținerea programului
 ## Executabil gata făcut:
-- descarcă `router_config.exe`
+- descarcă `router_config.exe` (https://github.com/liLaur/wifi-Regie/releases/download/beta/router_config.exe)
 - rulează-l (trebuie să dai "More info" și "Run anyway").
 
 ## Pentru build from source:
