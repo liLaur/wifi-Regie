@@ -1,5 +1,5 @@
 # WiFi Regie
-Aplicatie pentru configurarea automata a datelor pentru routerele Tp-link 
+Aplicatie pentru configurarea automata a datelor pentru routerele Tp-link (selecteaza branch-ul `tp_link`, alte routere vor fi adaugate curând)
 
 ___
 ## De ce ai nevoie?
