@@ -11,7 +11,7 @@ ___
 ## Pași inițiali:
 1. Conectează la priza de internet switch-ul
 2. Conectează laptopul la switch
-    - într timp bagă routerul in priză pentru a porni
+    - între timp bagă routerul in priză pentru a porni
     - dacă e prima dată când pornești routerul conectează-te prin cablu la el, intră in browser și cauta http://192.168.0.1, și fă pașii de acolo
     - apoi continuă cu 3.
 3. Dacă apare "Unidentified Network" urmeaza pasii de aici https://internet-campus.upb.ro/dot1x-windows10.html
